@@ -1,3 +1,4 @@
 
 #ostutorial
 
+I expect OS class to be fun and interesting
