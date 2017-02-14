@@ -1,0 +1,23 @@
+total 80
+drwxr-xr-x 18 nabilla.andini StafCS 4096 Feb 14 17:25 .
+drwx--x--x  3 nabilla.andini StafCS 4096 Feb 14 17:24 ..
+drwxr-xr-x  8 nabilla.andini StafCS 4096 Feb 14 17:24 .git
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:13 key
+-rw-r--r--  1 nabilla.andini StafCS    0 Feb 14 17:25 lab01.txt
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:13 log
+-rw-r--r--  1 nabilla.andini StafCS    7 Feb 14 17:04 README.md
+-rw-r--r--  1 nabilla.andini StafCS   19 Feb 14 17:21 report.txt
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:17 sandbox
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:24 week00
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:09 week01
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:09 week02
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:10 week03
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:10 week04
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:10 week05
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:10 week06
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:11 week07
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:11 week08
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:11 week09
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:12 week10
+drwxr-xr-x  2 nabilla.andini StafCS 4096 Feb 14 17:13 xtra
+/home/fasilkom/mahasiswa/n/nabilla.andini/os171/week01
