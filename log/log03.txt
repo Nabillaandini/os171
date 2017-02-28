@@ -1,0 +1,5 @@
+w03-170228-13-LR-About: Process and Threads, From: Self-Study
+w03-170228-13-LR-About: BIOS and UpStart,  From: Lecturer
+w03-170228-16-PS-About: Task Week 03
+w03-170228-17-PS-About: GITHUB booting
+w03-170228-20-LR-Watching demo online
