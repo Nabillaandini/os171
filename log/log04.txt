@@ -1,0 +1,5 @@
+w04-170307-10-LR-About: Pointers, From: Self-Study
+w04-170307-13-LR-About: Pointers,  From: Lecturer
+w04-170307-16-PS-About: Task Week 04
+w04-170309-17-PS-About: I/O program 
+w04-170309-20-LR-Watching demo online
