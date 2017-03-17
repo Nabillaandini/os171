@@ -1,0 +1,5 @@
+w05-170314-10-LR-About: Memory, From: Self-Study
+w05-170314-13-LR-About: Paging,  From: Lecturer
+w05-170316-16-PS-About: Task Week 05
+w05-170316-17-PS-About: Addressing
+w05-170317-20-LR-Watching demo online
