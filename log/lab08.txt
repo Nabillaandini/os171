@@ -1,0 +1,5 @@
+w08-170425-10-LR-About: Scheduling, From: Self-Study
+w08-170425-13-LR-About: Scheduling,  From: Lecturer
+w08-170426-19-PS-About: Scheduling
+w08-170427-9-LR-Task Week 08
+w08-170427-18-PS-About: File System
