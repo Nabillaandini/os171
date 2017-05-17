@@ -1,0 +1,8 @@
+
+w10-170512-09-LR-About: Watching virtualization video, From: Self-Study
+w10-170512-13-LR-About: Virtualization,  From: Self-Study
+w10-170518-19-DS-About: File System
+w10-170518-00-PS-About: Task Week 9
+w10-170518-10-LR-About: Persistent Storage, From: Self-Study
+w10-170520-18-PS-About: Task Week 10
+

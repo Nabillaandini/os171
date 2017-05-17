@@ -1,0 +1,7 @@
+
+w09-170509-09-LR-About: File System, From: Self-Study
+w09-170509-13-LR-About: File System,  From: Lecturer
+w09-170509-19-LR-About: RAID
+w09-170511-10-LR-About: Virtualization, From: Self-Study
+w09-170511-18-LR-About: Cloud, From: Self-Study
+
